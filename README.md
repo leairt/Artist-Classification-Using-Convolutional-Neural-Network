@@ -80,7 +80,7 @@ Visual representation of the Convolutional Neural Network architecture.
 ### Model Parameters
 
 - Input image size: 128x128 pixels
-- Batch size: 128
+- Batch size: 32
 - Optimizer: Adam (learning rate: 0.001)
 - Loss function: Sparse Categorical Crossentropy
 - Early stopping: Patience of 10 epochs
